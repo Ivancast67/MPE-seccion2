@@ -1,0 +1,15 @@
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\obj\Debug\net7.0\sesion3.csproj.AssemblyReference.cache
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\obj\Debug\net7.0\sesion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\obj\Debug\net7.0\sesion3.AssemblyInfoInputs.cache
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\obj\Debug\net7.0\sesion3.AssemblyInfo.cs
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\obj\Debug\net7.0\sesion3.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\bin\Debug\net7.0\sesion3.exe
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\bin\Debug\net7.0\sesion3.deps.json
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\bin\Debug\net7.0\sesion3.runtimeconfig.json
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\bin\Debug\net7.0\sesion3.dll
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\bin\Debug\net7.0\sesion3.pdb
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\obj\Debug\net7.0\sesion3.dll
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\obj\Debug\net7.0\refint\sesion3.dll
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\obj\Debug\net7.0\sesion3.pdb
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\obj\Debug\net7.0\sesion3.genruntimeconfig.cache
+C:\Users\labc202\Desktop\metodgrupo3\sesion3\sesion3\obj\Debug\net7.0\ref\sesion3.dll
